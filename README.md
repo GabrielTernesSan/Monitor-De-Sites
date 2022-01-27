@@ -12,7 +12,7 @@
 
 ​	Bom, então vamos lá, a principal função desta aplicação é fazer uma verificação periódica em sites selecionados, que podem mudar de acordo com a necessidade do usuário, os sites que serão verificados se encontrarão em um documento txt.
 
-![Sites](https://github.com/GabrielTernesSan/Projetos/blob/master/Imagens/Sites.png)	
+![Sites](https://github.com/GabrielTernesSan/Monitor-De-Sites/blob/master/imagens/Sites.png)	
 
 ​	Quando o usuário rodar a aplicação uma mensagem de boas vindas com uma breve explicação de sua função será exibida além de um menu de controle, onde apresentará 3 opções:
 
@@ -20,7 +20,7 @@
 2. Exibir os Logs
 3. Encerrar Programa
 
-![Menu](https://github.com/GabrielTernesSan/Projetos/blob/master/Imagens/MenuMonitorando.png)
+![Menu](https://github.com/GabrielTernesSan/Monitor-De-Sites/blob/master/imagens/MenuMonitorando.png)
 
 ​	O programa foi dividido em algumas funções simples de forma que a leitura e a reprodução sejam feitas de forma simples e organizada. A aplicação foi dividida em 9 funções pequenas e objetivas.
 
